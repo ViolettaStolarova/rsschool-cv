@@ -31,5 +31,5 @@ I am a first-year student of the Belarusian State University of Informatics and 
   * Some tutorials on youtube
   * Books
   ### English
-  I  have B1 level,but I strive to improve my English.
+  I  have B1 level, but I strive to improve my English.
   
